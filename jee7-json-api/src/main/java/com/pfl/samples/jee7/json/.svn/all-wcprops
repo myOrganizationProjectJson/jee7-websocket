@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json
+END
+JsonReaderExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json/JsonReaderExample.java
+END
+JsonBuilderExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json/JsonBuilderExample.java
+END
+JsonGeneratorExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json/JsonGeneratorExample.java
+END
+JsonWriterExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json/JsonWriterExample.java
+END
+JsonParserExample.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2/trunk/jee7-json-api/src/main/java/com/pfl/samples/jee7/json/JsonParserExample.java
+END

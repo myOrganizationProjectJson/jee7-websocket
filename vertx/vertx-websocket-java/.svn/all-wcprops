@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/trunk/vertx/vertx-websocket-java
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/18/trunk/vertx/vertx-websocket-java/README.md
+END
+vertx_classpath.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/18/trunk/vertx/vertx-websocket-java/vertx_classpath.txt
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/18/trunk/vertx/vertx-websocket-java/pom.xml
+END
